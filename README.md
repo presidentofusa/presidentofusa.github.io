@@ -1,2 +1,2 @@
 # presidentofusa.github.io
-My blog
+This is the repository for building and deployment of development of my template repositories 
